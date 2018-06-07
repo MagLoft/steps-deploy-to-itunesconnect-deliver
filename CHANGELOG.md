@@ -1,6 +1,89 @@
-## Changelog (Current version: 2.7.0)
+## Changelog (Current version: 2.13.2)
 
 -----------------
+
+### 2.13.2 (2018 Apr 06)
+
+* [2a4e2b0] Prepare for 2.13.2
+* [7bc5c23] Copy the .ipa/.pkg to tmp folder (#44)
+
+### 2.13.1 (2018 Mar 23)
+
+* [2dbc557] prepare for 2.13.1
+* [0a722c2] step definition update (#42)
+* [0c98b64] Refactor ITMS configuration (#40)
+
+### 2.13.0 (2018 Mar 01)
+
+* [c60b316] prepare for 2.13.0
+* [3e84702] Fix "ERROR: Could not start delivery: all transports failed diagnostics" (#38)
+
+### 2.12.0 (2018 Jan 12)
+
+* [d137dff] prepare for 2.12.0
+* [b1f48e7] add AppPassword to make use of application-specific passwords (#34)
+* [9e87c12] fix ci build (#36)
+
+### 2.11.0 (2017 Oct 30)
+
+* [9e970b0] Prepare for version 2.11.0
+* [afd28fe] Change 'beta' -> 'review' (#32)
+
+### 2.10.0 (2017 Oct 16)
+
+* [1c9c410] prepare for 2.10.0
+* [bb1d23b] new input: gemfile_path, gem version fixes, go dependencies with dep, (#29)
+* [9c13a37] Add fastlane_version; lets you specify a specific version of fastlane to install and use (#28)
+
+### 2.9.5 (2017 Sep 29)
+
+* [af49e48] prepare for 2.9.5
+* [668eb4b] add bundle_id, make app_id not required, add description text to specify that one of the two fields is required (#27)
+
+### 2.9.4 (2017 Jul 05)
+
+* [acdc839] prepare for 2.9.4
+* [a9c668d] type tag updates
+
+### 2.9.3 (2017 Jul 05)
+
+* [5f7e43a] prepare for 2.9.3
+* [cd55149] retry gem install and gem update commands (#25)
+
+### 2.9.2 (2017 Apr 25)
+
+* [80c4c43] Prepare for 2.9.2
+* [a717c76] Added platform input (#23)
+
+### 2.8.2 (2017 Jan 25)
+
+* [3b5430e] TeamID&TeamName parameter check (#22)
+
+### 2.8.1 (2017 Jan 16)
+
+* [d87a434] prepare for 2.8.1
+* [b3838ca] use rubycommand package (#21)
+* [38b9eb5] step.yml typo fix
+
+### 2.8.0 (2016 Dec 28)
+
+* [06bd7ed] STEP_VERSION: 2.8.0
+* [1ae2de3] Feature/deliver fastlane fix (#20)
+
+### 2.7.3 (2016 Dec 19)
+
+* [5acac8c] prepare for 2.7.3
+* [2c2d70f] add macos tag (#19)
+
+### 2.7.2 (2016 Dec 16)
+
+* [57ab0b0] prep for v2.7.2
+* [79da1a3] Feature/deliver update fixes (#18)
+
+### 2.7.1 (2016 Dec 12)
+
+* [085fd6d] prepare for 2.7.1
+* [0276868] Implement missing team args (#17)
 
 ### 2.7.0 (2016 Dec 06)
 
@@ -103,4 +186,4 @@
 
 -----------------
 
-Updated: 2016 Dec 06
+Updated: 2018 Apr 06
